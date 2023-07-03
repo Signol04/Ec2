@@ -1,5 +1,5 @@
-com/example/eva2/User.class
+com/example/eva2/Cursos.class
 com/example/eva2/EVA2Application.class
-com/example/eva2/UserRepository.class
+com/example/eva2/CursosRepository.class
 com/example/eva2/ApiController.class
 com/example/eva2/Controller.class
